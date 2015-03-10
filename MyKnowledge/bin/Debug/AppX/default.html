@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>MyKnowledge</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0.RC/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0.RC/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0.RC/js/ui.js"></script>
+
+    <!-- MyKnowledge references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+
+ 
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script src="/js/kxp.js"></script>
+</head>
+<body>
+     <div data-win-control="WinJS.UI.ViewBox">
+        <div class="fixedlayout">
+            <div class="all-content">
+                <h1 class="page-title" id="pagetitle"></h1>
+            
+                
+               
+                <h1 class="hello-message" id="hello">Hello!</h1>
+                <br class="clr" />
+                <br class="clr" />
+                    <select id="myselect">
+                    <option value="customer">Customer</option>
+                    <option value="inside">Inside</option>
+                </select>
+                 <input type=button class="Current" id="showcurrent" value="Show Current" onclick="quickS();">
+                <input type=button class="Lang" id="turkish" value="Türkçe" onclick="selectLang('tr');">
+                <input type=button id="english" value="English" onclick="selectLang('en');">
+                <br class="clr" />
+                
+                <div class="main-content">
+                    <div class="main-one">
+                        <h1 class="page-second-title" id="Presentations"></h1>
+                        <div id="Presentation"></div>
+                        <br class="clr" />
+                    </div>
+                    <div class="main-second">
+                        <h1 class="page-second-title" id="Documents"></h1>
+                        <div id="Document"></div>
+                        <br class="clr" />
+                    </div>
+                    <div class="main-third">
+                        <h1 class="page-second-title" id="OtherMedia"></h1>
+                        <div id="Other"></div>
+                        <br class="clr" />
+                    </div>
+                </div>
+                <div class="garanti-logo"></div>
+            </div>
+        </div>
+       
+    </div>
+</body>
+</html>

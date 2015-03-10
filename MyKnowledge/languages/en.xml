@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<language>
+  <pagetitle>My Knowledge</pagetitle>
+  <Presentations>Presentations</Presentations>
+  <showcurrent>
+    Show Current
+  </showcurrent>
+  <turkish>
+    Turkish
+  </turkish>
+  <english>
+    English
+  </english>
+  <hello>
+    Hello!
+  </hello>
+  <Documents>
+    Documents
+  </Documents>
+  <OtherMedia>
+    Other Media
+  </OtherMedia>
+  <Company>
+    Company
+  </Company>
+</language>

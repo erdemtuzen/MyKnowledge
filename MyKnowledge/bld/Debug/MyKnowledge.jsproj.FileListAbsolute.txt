@@ -1,0 +1,13 @@
+c:\users\erdem\documents\visual studio 2012\Projects\MyKnowledge\MyKnowledge\bin\Debug\resources.pri
+c:\users\erdem\documents\visual studio 2012\Projects\MyKnowledge\MyKnowledge\bin\Debug\AppxManifest.xml
+c:\users\erdem\documents\visual studio 2012\Projects\MyKnowledge\MyKnowledge\bin\Debug\MyKnowledge.build.appxrecipe
+c:\users\erdem\documents\visual studio 2012\Projects\MyKnowledge\MyKnowledge\bld\Debug\priconfig.xml
+c:\users\erdem\documents\visual studio 2012\Projects\MyKnowledge\MyKnowledge\bld\Debug\layout.resfiles
+c:\users\erdem\documents\visual studio 2012\Projects\MyKnowledge\MyKnowledge\bld\Debug\resources.resfiles
+c:\users\erdem\documents\visual studio 2012\Projects\MyKnowledge\MyKnowledge\bld\Debug\pri.resfiles
+c:\users\erdem\documents\visual studio 2012\Projects\MyKnowledge\MyKnowledge\bld\Debug\LanguageQualifiers.txt
+c:\users\erdem\documents\visual studio 2012\Projects\MyKnowledge\MyKnowledge\bld\Debug\ProjectArchitectures.txt
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\MyKnowledge\MyKnowledge\bld\Debug\priconfig.xml.intermediate
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\MyKnowledge\MyKnowledge\bld\Debug\layout.resfiles.intermediate
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\MyKnowledge\MyKnowledge\bld\Debug\resources.resfiles.intermediate
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\MyKnowledge\MyKnowledge\bld\Debug\pri.resfiles.intermediate

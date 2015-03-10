@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <Item>
+    <Title>Garanti</Title>
+    <File>data/datafolder/Customer/Garanti.txt</File>
+    <Type>Presentation</Type>
+    <FileType>pptx</FileType>
+    <Company>Micrososft</Company>
+  </Item>
+  <Item>
+    <Title>Garanti Bankası</Title>
+    <File>data/datafolder/Customer/Garanti.txt</File>
+    <Type>Document</Type>
+    <FileType>pptx</FileType>
+    <Company>Microsoft</Company>
+  </Item>
+  <Item>
+    <Title>Garanti Gayrimenkul</Title>
+    <File>data/datafolder/Customer/Garanti.pptx</File>
+    <Type>Other</Type>
+    <FileType>pptx</FileType>
+    <Company>Microsoft</Company>
+  </Item>
+</Items>
